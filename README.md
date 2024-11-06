@@ -1,35 +1,59 @@
-# 👋 你好，我是 [aojunhao]
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20aojunhao&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-## 🚀 关于我
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm [aojunhao]
 
-- 🔭 我目前正在从事前端开发
-- 🌱 热衷于开源项目贡献和技术分享
-- 💡 积极参与开源社区建设
-- 🤝 欢迎一起交流技术，共同成长
-- 📫 联系我: [1844749591@qq.com]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-## 🛠️ 技术栈
+## 🚀 About Me
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- 🔭 Hello, I'm a front-end developer graduating in 2024. Continuously striving to improve!
+- 🌱 Just stepped into the world of open source~
+- 📫 Contact me: [1844749591@qq.com](mailto:1844749591@qq.com)
 
-## 📊 GitHub 活跃度
+## 🤝 Open Source Contributions
 
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=aojunhao123&show_icons=true&theme=radical)
-![GitHub连续提交](https://github-readme-streak-stats.herokuapp.com/?user=aojunhao123&theme=radical)
-![使用最多的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=aojunhao123&layout=compact&theme=radical)
+### Currently Active In
 
-## 🌟 开源贡献
+<a href="https://github.com/ant-design/ant-design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ant-design&repo=ant-design&theme=radical" />
+</a>
 
-[![我的开源社区贡献](https://github-contributor-stats.vercel.app/api?username=aojunhao123&combine_all_yearly_contributions=true&theme=radical&hide_own_repos=true)](https://github.com/aojunhao123)
+### My Total PRs
 
-<!--END_SECTION:activity-->
+[![All PRs](https://img.shields.io/badge/All%20PRs-View%20on%20GitHub-blue?style=flat-square)](https://github.com/search?q=is%3Apr+author%3Aaojunhao123+is%3Amerged&type=pullrequests)
 
-## 📫 找到我
+## 🛠️ Tech Stack
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aojunhao123)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1844749591@qq.com)
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
----
+</div>
 
-⭐️ From [aojunhao123](https://github.com/aojunhao123)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aojunhao123&layout=compact&theme=radical" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aojunhao123&theme=react-dark" />
+</div>
+
+## 📫 Find Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aojunhao123)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlanCam16356452)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

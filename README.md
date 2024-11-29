@@ -47,13 +47,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aojunhao123&theme=react-dark" />
 </div>
 
-## 📫 Find Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aojunhao123)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlanCam16356452)
-
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

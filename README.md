@@ -10,7 +10,7 @@
 
 - 🔭 Hello, I'm a front-end developer graduating in 2024. Continuously striving to improve!
 - 🌱 Just stepped into the world of open source~
-- 📫 Contact me: [1844749591@qq.com](mailto:1844749591@qq.com)
+- 📫 Contact me: [1844749591@qq.com](mailto:1844749591@qq.com) or [1844749591ajh@gmail.com](mailto:1844749591ajh@gmail.com)
 
 ## 🤝 Open Source Contributions
 
